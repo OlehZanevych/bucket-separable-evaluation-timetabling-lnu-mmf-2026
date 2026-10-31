@@ -1,0 +1,276 @@
+cost
+ctt 01 bucket-local 1
+ctt 01 bucket-local 2
+ctt 01 bucket-local 3
+ctt 01 separable-aware 1
+ctt 01 separable-aware 2
+ctt 01 separable-aware 3
+ctt 01 fully-aware 1
+ctt 01 fully-aware 2
+ctt 01 fully-aware 3
+ctt 02 bucket-local 1
+ctt 02 bucket-local 2
+ctt 02 bucket-local 3
+ctt 02 separable-aware 1
+ctt 02 separable-aware 2
+ctt 02 separable-aware 3
+ctt 02 fully-aware 1
+ctt 02 fully-aware 2
+ctt 02 fully-aware 3
+ctt 03 bucket-local 1
+ctt 03 bucket-local 2
+ctt 03 bucket-local 3
+ctt 03 separable-aware 1
+ctt 03 separable-aware 2
+ctt 03 separable-aware 3
+ctt 03 fully-aware 1
+ctt 03 fully-aware 2
+ctt 03 fully-aware 3
+ctt 04 bucket-local 1
+ctt 04 bucket-local 2
+ctt 04 bucket-local 3
+ctt 04 separable-aware 1
+ctt 04 separable-aware 2
+ctt 04 separable-aware 3
+ctt 04 fully-aware 1
+ctt 04 fully-aware 2
+ctt 04 fully-aware 3
+ctt 05 bucket-local 1
+ctt 05 bucket-local 2
+ctt 05 bucket-local 3
+ctt 05 separable-aware 1
+ctt 05 separable-aware 2
+ctt 05 separable-aware 3
+ctt 05 fully-aware 1
+ctt 05 fully-aware 2
+ctt 05 fully-aware 3
+ctt 06 bucket-local 1
+ctt 06 bucket-local 2
+ctt 06 bucket-local 3
+ctt 06 separable-aware 1
+ctt 06 separable-aware 2
+ctt 06 separable-aware 3
+ctt 06 fully-aware 1
+ctt 06 fully-aware 2
+ctt 06 fully-aware 3
+ctt 07 bucket-local 1
+ctt 07 bucket-local 2
+ctt 07 bucket-local 3
+ctt 07 separable-aware 1
+ctt 07 separable-aware 2
+ctt 07 separable-aware 3
+ctt 07 fully-aware 1
+ctt 07 fully-aware 2
+ctt 07 fully-aware 3
+ctt 08 bucket-local 1
+ctt 08 bucket-local 2
+ctt 08 bucket-local 3
+ctt 08 separable-aware 1
+ctt 08 separable-aware 2
+ctt 08 separable-aware 3
+ctt 08 fully-aware 1
+ctt 08 fully-aware 2
+ctt 08 fully-aware 3
+ctt 09 bucket-local 1
+ctt 09 bucket-local 2
+ctt 09 bucket-local 3
+ctt 09 separable-aware 1
+ctt 09 separable-aware 2
+ctt 09 separable-aware 3
+ctt 09 fully-aware 1
+ctt 09 fully-aware 2
+ctt 09 fully-aware 3
+ctt 10 bucket-local 1
+ctt 10 bucket-local 2
+ctt 10 bucket-local 3
+ctt 10 separable-aware 1
+ctt 10 separable-aware 2
+ctt 10 separable-aware 3
+ctt 10 fully-aware 1
+ctt 10 fully-aware 2
+ctt 10 fully-aware 3
+ctt 11 bucket-local 1
+ctt 11 bucket-local 2
+ctt 11 bucket-local 3
+ctt 11 separable-aware 1
+ctt 11 separable-aware 2
+ctt 11 separable-aware 3
+ctt 11 fully-aware 1
+ctt 11 fully-aware 2
+ctt 11 fully-aware 3
+ctt 12 bucket-local 1
+ctt 12 bucket-local 2
+ctt 12 bucket-local 3
+ctt 12 separable-aware 1
+ctt 12 separable-aware 2
+ctt 12 separable-aware 3
+ctt 12 fully-aware 1
+ctt 12 fully-aware 2
+ctt 12 fully-aware 3
+ctt 13 bucket-local 1
+ctt 13 bucket-local 2
+ctt 13 bucket-local 3
+ctt 13 separable-aware 1
+ctt 13 separable-aware 2
+ctt 13 separable-aware 3
+ctt 13 fully-aware 1
+ctt 13 fully-aware 2
+ctt 13 fully-aware 3
+ctt 14 bucket-local 1
+ctt 14 bucket-local 2
+ctt 14 bucket-local 3
+ctt 14 separable-aware 1
+ctt 14 separable-aware 2
+ctt 14 separable-aware 3
+ctt 14 fully-aware 1
+ctt 14 fully-aware 2
+ctt 14 fully-aware 3
+ctt 15 bucket-local 1
+ctt 15 bucket-local 2
+ctt 15 bucket-local 3
+ctt 15 separable-aware 1
+ctt 15 separable-aware 2
+ctt 15 separable-aware 3
+ctt 15 fully-aware 1
+ctt 15 fully-aware 2
+ctt 15 fully-aware 3
+ctt 16 bucket-local 1
+ctt 16 bucket-local 2
+ctt 16 bucket-local 3
+ctt 16 separable-aware 1
+ctt 16 separable-aware 2
+ctt 16 separable-aware 3
+ctt 16 fully-aware 1
+ctt 16 fully-aware 2
+ctt 16 fully-aware 3
+ctt 17 bucket-local 1
+ctt 17 bucket-local 2
+ctt 17 bucket-local 3
+ctt 17 separable-aware 1
+ctt 17 separable-aware 2
+ctt 17 separable-aware 3
+ctt 17 fully-aware 1
+ctt 17 fully-aware 2
+ctt 17 fully-aware 3
+ctt 18 bucket-local 1
+ctt 18 bucket-local 2
+ctt 18 bucket-local 3
+ctt 18 separable-aware 1
+ctt 18 separable-aware 2
+ctt 18 separable-aware 3
+ctt 18 fully-aware 1
+ctt 18 fully-aware 2
+ctt 18 fully-aware 3
+ctt 19 bucket-local 1
+ctt 19 bucket-local 2
+ctt 19 bucket-local 3
+ctt 19 separable-aware 1
+ctt 19 separable-aware 2
+ctt 19 separable-aware 3
+ctt 19 fully-aware 1
+ctt 19 fully-aware 2
+ctt 19 fully-aware 3
+ctt 20 bucket-local 1
+ctt 20 bucket-local 2
+ctt 20 bucket-local 3
+ctt 20 separable-aware 1
+ctt 20 separable-aware 2
+ctt 20 separable-aware 3
+ctt 20 fully-aware 1
+ctt 20 fully-aware 2
+ctt 20 fully-aware 3
+ctt 21 bucket-local 1
+ctt 21 bucket-local 2
+ctt 21 bucket-local 3
+ctt 21 separable-aware 1
+ctt 21 separable-aware 2
+ctt 21 separable-aware 3
+ctt 21 fully-aware 1
+ctt 21 fully-aware 2
+ctt 21 fully-aware 3
+gen permute 1
+gen permute 2
+gen permute 3
+gen permute 4
+gen permute 5
+gen permute 6
+gen permute 7
+gen permute 8
+gen permute 9
+gen permute 10
+gen permute 11
+gen permute 12
+gen permute 13
+gen permute 14
+gen permute 15
+gen aiming 1
+gen aiming 2
+gen aiming 3
+gen aiming 4
+gen aiming 5
+gen aiming 6
+gen aiming 7
+gen aiming 8
+gen aiming 9
+gen aiming 10
+gen scaling 1
+gen scaling 2
+gen scaling 3
+gen scaling 4
+gen scaling 5
+gen scaling 6
+gen scaling 7
+gen scaling 8
+gen scaling 9
+gen scaling 10
+gen anytime 1
+gen anytime 2
+gen anytime 3
+gen anytime 4
+gen anytime 5
+gen anytime 6
+gen anytime 7
+gen anytime 8
+gen anytime 9
+gen anytime 10
+gen cost 1
+gen cost 2
+gen cost 3
+gen cost 4
+gen cost 5
+gen cost 6
+gen cost 7
+gen cost 8
+gen cost 9
+gen cost 10
+gen evaluators 1
+gen evaluators 2
+gen evaluators 3
+gen evaluators 4
+gen evaluators 5
+gen evaluators 6
+gen evaluators 7
+gen evaluators 8
+gen evaluators 9
+gen evaluators 10
+diag 01
+diag 02
+diag 03
+diag 04
+diag 05
+diag 06
+diag 07
+diag 08
+diag 09
+diag 10
+diag 11
+diag 12
+diag 13
+diag 14
+diag 15
+diag 16
+diag 17
+diag 18
+diag 19
+diag 20
+diag 21

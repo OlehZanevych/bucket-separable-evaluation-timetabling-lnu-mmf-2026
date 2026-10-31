@@ -1,0 +1,23 @@
+Host of the run that produced results/ (recorded on the same machine)
+
+$ uname -srvm
+Linux 6.8.0-138-generic #138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:34:27 UTC  aarch64
+
+$ grep PRETTY_NAME /etc/os-release
+PRETTY_NAME="Ubuntu 22.04.5 LTS"
+
+$ lscpu (excerpt)
+Architecture:                            aarch64
+CPU(s):                                  4
+Vendor ID:                               Apple
+Thread(s) per core:                      1
+Core(s) per cluster:                     4
+BogoMIPS:                                48.00
+
+$ g++ --version
+g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+
+$ nproc
+4
+
+Build: g++ -std=c++20 -O3 -ffp-contract=off (the CMake Release flags), four jobs at a time (xargs -P4).

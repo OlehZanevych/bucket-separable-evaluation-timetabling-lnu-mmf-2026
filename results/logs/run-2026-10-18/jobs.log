@@ -1,0 +1,1167 @@
+# Progress log of the run that produced results/ (18 October 2026).
+# One block per job of jobs.txt, in that order; 'finished' is the time the job's done marker was written.
+# Run started: Sun Oct 18 14:19:26 UTC 2026
+
+== cost   (finished 14:20:45 UTC)
+  comp01   cost probe done
+  comp02   cost probe done
+  comp03   cost probe done
+  comp04   cost probe done
+  comp05   cost probe done
+  comp06   cost probe done
+  comp07   cost probe done
+  comp08   cost probe done
+  comp09   cost probe done
+  comp10   cost probe done
+  comp11   cost probe done
+  comp12   cost probe done
+  comp13   cost probe done
+  comp14   cost probe done
+  comp15   cost probe done
+  comp16   cost probe done
+  comp17   cost probe done
+  comp18   cost probe done
+  comp19   cost probe done
+  comp20   cost probe done
+  comp21   cost probe done
+ctt-cost done
+
+== ctt 01 bucket-local 1   (finished 14:19:41 UTC)
+  comp01   bucket-local     seed  1  H=0  UD2=13
+ctt done
+
+== ctt 01 bucket-local 2   (finished 14:19:42 UTC)
+  comp01   bucket-local     seed  2  H=0  UD2=12
+ctt done
+
+== ctt 01 bucket-local 3   (finished 14:19:42 UTC)
+  comp01   bucket-local     seed  3  H=0  UD2=13
+ctt done
+
+== ctt 01 separable-aware 1   (finished 14:19:56 UTC)
+  comp01   separable-aware  seed  1  H=0  UD2=12
+ctt done
+
+== ctt 01 separable-aware 2   (finished 14:19:57 UTC)
+  comp01   separable-aware  seed  2  H=0  UD2=12
+ctt done
+
+== ctt 01 separable-aware 3   (finished 14:19:57 UTC)
+  comp01   separable-aware  seed  3  H=0  UD2=9
+ctt done
+
+== ctt 01 fully-aware 1   (finished 14:20:12 UTC)
+  comp01   fully-aware      seed  1  H=0  UD2=6
+ctt done
+
+== ctt 01 fully-aware 2   (finished 14:20:14 UTC)
+  comp01   fully-aware      seed  2  H=0  UD2=6
+ctt done
+
+== ctt 01 fully-aware 3   (finished 14:20:14 UTC)
+  comp01   fully-aware      seed  3  H=0  UD2=6
+ctt done
+
+== ctt 02 bucket-local 1   (finished 14:20:28 UTC)
+  comp02   bucket-local     seed  1  H=0  UD2=179
+ctt done
+
+== ctt 02 bucket-local 2   (finished 14:20:29 UTC)
+  comp02   bucket-local     seed  2  H=0  UD2=135
+ctt done
+
+== ctt 02 bucket-local 3   (finished 14:20:30 UTC)
+  comp02   bucket-local     seed  3  H=0  UD2=149
+ctt done
+
+== ctt 02 separable-aware 1   (finished 14:20:54 UTC)
+  comp02   separable-aware  seed  1  H=0  UD2=139
+ctt done
+
+== ctt 02 separable-aware 2   (finished 14:20:55 UTC)
+  comp02   separable-aware  seed  2  H=0  UD2=104
+ctt done
+
+== ctt 02 separable-aware 3   (finished 14:20:57 UTC)
+  comp02   separable-aware  seed  3  H=0  UD2=137
+ctt done
+
+== ctt 02 fully-aware 1   (finished 14:21:17 UTC)
+  comp02   fully-aware      seed  1  H=0  UD2=97
+ctt done
+
+== ctt 02 fully-aware 2   (finished 14:21:27 UTC)
+  comp02   fully-aware      seed  2  H=0  UD2=85
+ctt done
+
+== ctt 02 fully-aware 3   (finished 14:21:27 UTC)
+  comp02   fully-aware      seed  3  H=0  UD2=97
+ctt done
+
+== ctt 03 bucket-local 1   (finished 14:21:10 UTC)
+  comp03   bucket-local     seed  1  H=0  UD2=167
+ctt done
+
+== ctt 03 bucket-local 2   (finished 14:21:28 UTC)
+  comp03   bucket-local     seed  2  H=0  UD2=165
+ctt done
+
+== ctt 03 bucket-local 3   (finished 14:21:32 UTC)
+  comp03   bucket-local     seed  3  H=0  UD2=190
+ctt done
+
+== ctt 03 separable-aware 1   (finished 14:21:55 UTC)
+  comp03   separable-aware  seed  1  H=0  UD2=143
+ctt done
+
+== ctt 03 separable-aware 2   (finished 14:21:51 UTC)
+  comp03   separable-aware  seed  2  H=0  UD2=151
+ctt done
+
+== ctt 03 separable-aware 3   (finished 14:21:54 UTC)
+  comp03   separable-aware  seed  3  H=0  UD2=152
+ctt done
+
+== ctt 03 fully-aware 1   (finished 14:22:05 UTC)
+  comp03   fully-aware      seed  1  H=0  UD2=100
+ctt done
+
+== ctt 03 fully-aware 2   (finished 14:23:04 UTC)
+  comp03   fully-aware      seed  2  H=0  UD2=95
+ctt done
+
+== ctt 03 fully-aware 3   (finished 14:23:02 UTC)
+  comp03   fully-aware      seed  3  H=0  UD2=82
+ctt done
+
+== ctt 04 bucket-local 1   (finished 14:22:04 UTC)
+  comp04   bucket-local     seed  1  H=0  UD2=107
+ctt done
+
+== ctt 04 bucket-local 2   (finished 14:22:13 UTC)
+  comp04   bucket-local     seed  2  H=0  UD2=125
+ctt done
+
+== ctt 04 bucket-local 3   (finished 14:22:14 UTC)
+  comp04   bucket-local     seed  3  H=0  UD2=117
+ctt done
+
+== ctt 04 separable-aware 1   (finished 14:22:46 UTC)
+  comp04   separable-aware  seed  1  H=0  UD2=85
+ctt done
+
+== ctt 04 separable-aware 2   (finished 14:22:45 UTC)
+  comp04   separable-aware  seed  2  H=0  UD2=92
+ctt done
+
+== ctt 04 separable-aware 3   (finished 14:23:01 UTC)
+  comp04   separable-aware  seed  3  H=0  UD2=97
+ctt done
+
+== ctt 04 fully-aware 1   (finished 14:23:05 UTC)
+  comp04   fully-aware      seed  1  H=0  UD2=46
+ctt done
+
+== ctt 04 fully-aware 2   (finished 14:23:20 UTC)
+  comp04   fully-aware      seed  2  H=0  UD2=41
+ctt done
+
+== ctt 04 fully-aware 3   (finished 14:23:22 UTC)
+  comp04   fully-aware      seed  3  H=0  UD2=46
+ctt done
+
+== ctt 05 bucket-local 1   (finished 14:23:47 UTC)
+  comp05   bucket-local     seed  1  H=0  UD2=501
+ctt done
+
+== ctt 05 bucket-local 2   (finished 14:23:44 UTC)
+  comp05   bucket-local     seed  2  H=0  UD2=395
+ctt done
+
+== ctt 05 bucket-local 3   (finished 14:24:01 UTC)
+  comp05   bucket-local     seed  3  H=0  UD2=415
+ctt done
+
+== ctt 05 separable-aware 1   (finished 14:24:47 UTC)
+  comp05   separable-aware  seed  1  H=0  UD2=377
+ctt done
+
+== ctt 05 separable-aware 2   (finished 14:25:01 UTC)
+  comp05   separable-aware  seed  2  H=0  UD2=392
+ctt done
+
+== ctt 05 separable-aware 3   (finished 14:25:08 UTC)
+  comp05   separable-aware  seed  3  H=0  UD2=419
+ctt done
+
+== ctt 05 fully-aware 1   (finished 14:26:45 UTC)
+  comp05   fully-aware      seed  1  H=0  UD2=374
+ctt done
+
+== ctt 05 fully-aware 2   (finished 14:26:43 UTC)
+  comp05   fully-aware      seed  2  H=0  UD2=402
+ctt done
+
+== ctt 05 fully-aware 3   (finished 14:26:47 UTC)
+  comp05   fully-aware      seed  3  H=0  UD2=328
+ctt done
+
+== ctt 06 bucket-local 1   (finished 14:25:19 UTC)
+  comp06   bucket-local     seed  1  H=0  UD2=168
+ctt done
+
+== ctt 06 bucket-local 2   (finished 14:25:33 UTC)
+  comp06   bucket-local     seed  2  H=0  UD2=154
+ctt done
+
+== ctt 06 bucket-local 3   (finished 14:25:44 UTC)
+  comp06   bucket-local     seed  3  H=0  UD2=165
+ctt done
+
+== ctt 06 separable-aware 1   (finished 14:26:02 UTC)
+  comp06   separable-aware  seed  1  H=0  UD2=105
+ctt done
+
+== ctt 06 separable-aware 2   (finished 14:26:21 UTC)
+  comp06   separable-aware  seed  2  H=0  UD2=122
+ctt done
+
+== ctt 06 separable-aware 3   (finished 14:26:39 UTC)
+  comp06   separable-aware  seed  3  H=0  UD2=132
+ctt done
+
+== ctt 06 fully-aware 1   (finished 14:27:02 UTC)
+  comp06   fully-aware      seed  1  H=0  UD2=82
+ctt done
+
+== ctt 06 fully-aware 2   (finished 14:27:06 UTC)
+  comp06   fully-aware      seed  2  H=0  UD2=90
+ctt done
+
+== ctt 06 fully-aware 3   (finished 14:27:08 UTC)
+  comp06   fully-aware      seed  3  H=0  UD2=81
+ctt done
+
+== ctt 07 bucket-local 1   (finished 14:27:00 UTC)
+  comp07   bucket-local     seed  1  H=0  UD2=157
+ctt done
+
+== ctt 07 bucket-local 2   (finished 14:27:12 UTC)
+  comp07   bucket-local     seed  2  H=0  UD2=162
+ctt done
+
+== ctt 07 bucket-local 3   (finished 14:27:15 UTC)
+  comp07   bucket-local     seed  3  H=0  UD2=176
+ctt done
+
+== ctt 07 separable-aware 1   (finished 14:27:26 UTC)
+  comp07   separable-aware  seed  1  H=0  UD2=115
+ctt done
+
+== ctt 07 separable-aware 2   (finished 14:27:28 UTC)
+  comp07   separable-aware  seed  2  H=0  UD2=118
+ctt done
+
+== ctt 07 separable-aware 3   (finished 14:27:31 UTC)
+  comp07   separable-aware  seed  3  H=0  UD2=101
+ctt done
+
+== ctt 07 fully-aware 1   (finished 14:27:38 UTC)
+  comp07   fully-aware      seed  1  H=0  UD2=45
+ctt done
+
+== ctt 07 fully-aware 2   (finished 14:27:50 UTC)
+  comp07   fully-aware      seed  2  H=0  UD2=52
+ctt done
+
+== ctt 07 fully-aware 3   (finished 14:27:50 UTC)
+  comp07   fully-aware      seed  3  H=0  UD2=53
+ctt done
+
+== ctt 08 bucket-local 1   (finished 14:27:41 UTC)
+  comp08   bucket-local     seed  1  H=0  UD2=133
+ctt done
+
+== ctt 08 bucket-local 2   (finished 14:27:47 UTC)
+  comp08   bucket-local     seed  2  H=0  UD2=128
+ctt done
+
+== ctt 08 bucket-local 3   (finished 14:27:49 UTC)
+  comp08   bucket-local     seed  3  H=0  UD2=170
+ctt done
+
+== ctt 08 separable-aware 1   (finished 14:28:01 UTC)
+  comp08   separable-aware  seed  1  H=0  UD2=94
+ctt done
+
+== ctt 08 separable-aware 2   (finished 14:28:03 UTC)
+  comp08   separable-aware  seed  2  H=0  UD2=101
+ctt done
+
+== ctt 08 separable-aware 3   (finished 14:28:03 UTC)
+  comp08   separable-aware  seed  3  H=0  UD2=108
+ctt done
+
+== ctt 08 fully-aware 1   (finished 14:28:08 UTC)
+  comp08   fully-aware      seed  1  H=0  UD2=47
+ctt done
+
+== ctt 08 fully-aware 2   (finished 14:28:31 UTC)
+  comp08   fully-aware      seed  2  H=0  UD2=55
+ctt done
+
+== ctt 08 fully-aware 3   (finished 14:28:30 UTC)
+  comp08   fully-aware      seed  3  H=0  UD2=56
+ctt done
+
+== ctt 09 bucket-local 1   (finished 14:28:25 UTC)
+  comp09   bucket-local     seed  1  H=0  UD2=188
+ctt done
+
+== ctt 09 bucket-local 2   (finished 14:28:24 UTC)
+  comp09   bucket-local     seed  2  H=0  UD2=184
+ctt done
+
+== ctt 09 bucket-local 3   (finished 14:28:36 UTC)
+  comp09   bucket-local     seed  3  H=0  UD2=226
+ctt done
+
+== ctt 09 separable-aware 1   (finished 14:28:44 UTC)
+  comp09   separable-aware  seed  1  H=0  UD2=173
+ctt done
+
+== ctt 09 separable-aware 2   (finished 14:28:50 UTC)
+  comp09   separable-aware  seed  2  H=0  UD2=158
+ctt done
+
+== ctt 09 separable-aware 3   (finished 14:28:51 UTC)
+  comp09   separable-aware  seed  3  H=0  UD2=152
+ctt done
+
+== ctt 09 fully-aware 1   (finished 14:29:02 UTC)
+  comp09   fully-aware      seed  1  H=0  UD2=115
+ctt done
+
+== ctt 09 fully-aware 2   (finished 14:29:10 UTC)
+  comp09   fully-aware      seed  2  H=0  UD2=113
+ctt done
+
+== ctt 09 fully-aware 3   (finished 14:29:16 UTC)
+  comp09   fully-aware      seed  3  H=0  UD2=121
+ctt done
+
+== ctt 10 bucket-local 1   (finished 14:29:03 UTC)
+  comp10   bucket-local     seed  1  H=0  UD2=131
+ctt done
+
+== ctt 10 bucket-local 2   (finished 14:29:15 UTC)
+  comp10   bucket-local     seed  2  H=0  UD2=123
+ctt done
+
+== ctt 10 bucket-local 3   (finished 14:29:15 UTC)
+  comp10   bucket-local     seed  3  H=0  UD2=153
+ctt done
+
+== ctt 10 separable-aware 1   (finished 14:29:28 UTC)
+  comp10   separable-aware  seed  1  H=0  UD2=91
+ctt done
+
+== ctt 10 separable-aware 2   (finished 14:29:33 UTC)
+  comp10   separable-aware  seed  2  H=0  UD2=107
+ctt done
+
+== ctt 10 separable-aware 3   (finished 14:29:33 UTC)
+  comp10   separable-aware  seed  3  H=0  UD2=87
+ctt done
+
+== ctt 10 fully-aware 1   (finished 14:29:39 UTC)
+  comp10   fully-aware      seed  1  H=0  UD2=41
+ctt done
+
+== ctt 10 fully-aware 2   (finished 14:29:50 UTC)
+  comp10   fully-aware      seed  2  H=0  UD2=47
+ctt done
+
+== ctt 10 fully-aware 3   (finished 14:29:55 UTC)
+  comp10   fully-aware      seed  3  H=0  UD2=47
+ctt done
+
+== ctt 11 bucket-local 1   (finished 14:29:50 UTC)
+  comp11   bucket-local     seed  1  H=0  UD2=9
+ctt done
+
+== ctt 11 bucket-local 2   (finished 14:29:54 UTC)
+  comp11   bucket-local     seed  2  H=0  UD2=7
+ctt done
+
+== ctt 11 bucket-local 3   (finished 14:30:06 UTC)
+  comp11   bucket-local     seed  3  H=0  UD2=6
+ctt done
+
+== ctt 11 separable-aware 1   (finished 14:30:16 UTC)
+  comp11   separable-aware  seed  1  H=0  UD2=4
+ctt done
+
+== ctt 11 separable-aware 2   (finished 14:30:19 UTC)
+  comp11   separable-aware  seed  2  H=0  UD2=2
+ctt done
+
+== ctt 11 separable-aware 3   (finished 14:30:22 UTC)
+  comp11   separable-aware  seed  3  H=0  UD2=5
+ctt done
+
+== ctt 11 fully-aware 1   (finished 14:30:06 UTC)
+  comp11   fully-aware      seed  1  H=0  UD2=0
+ctt done
+
+== ctt 11 fully-aware 2   (finished 14:30:07 UTC)
+  comp11   fully-aware      seed  2  H=0  UD2=0
+ctt done
+
+== ctt 11 fully-aware 3   (finished 14:30:08 UTC)
+  comp11   fully-aware      seed  3  H=0  UD2=0
+ctt done
+
+== ctt 12 bucket-local 1   (finished 14:30:31 UTC)
+  comp12   bucket-local     seed  1  H=0  UD2=429
+ctt done
+
+== ctt 12 bucket-local 2   (finished 14:30:38 UTC)
+  comp12   bucket-local     seed  2  H=0  UD2=426
+ctt done
+
+== ctt 12 bucket-local 3   (finished 14:30:41 UTC)
+  comp12   bucket-local     seed  3  H=0  UD2=422
+ctt done
+
+== ctt 12 separable-aware 1   (finished 14:31:48 UTC)
+  comp12   separable-aware  seed  1  H=0  UD2=427
+ctt done
+
+== ctt 12 separable-aware 2   (finished 14:31:48 UTC)
+  comp12   separable-aware  seed  2  H=0  UD2=423
+ctt done
+
+== ctt 12 separable-aware 3   (finished 14:31:49 UTC)
+  comp12   separable-aware  seed  3  H=0  UD2=482
+ctt done
+
+== ctt 12 fully-aware 1   (finished 14:31:54 UTC)
+  comp12   fully-aware      seed  1  H=0  UD2=421
+ctt done
+
+== ctt 12 fully-aware 2   (finished 14:32:37 UTC)
+  comp12   fully-aware      seed  2  H=0  UD2=378
+ctt done
+
+== ctt 12 fully-aware 3   (finished 14:32:36 UTC)
+  comp12   fully-aware      seed  3  H=0  UD2=385
+ctt done
+
+== ctt 13 bucket-local 1   (finished 14:31:59 UTC)
+  comp13   bucket-local     seed  1  H=0  UD2=180
+ctt done
+
+== ctt 13 bucket-local 2   (finished 14:32:03 UTC)
+  comp13   bucket-local     seed  2  H=0  UD2=184
+ctt done
+
+== ctt 13 bucket-local 3   (finished 14:32:08 UTC)
+  comp13   bucket-local     seed  3  H=0  UD2=166
+ctt done
+
+== ctt 13 separable-aware 1   (finished 14:32:19 UTC)
+  comp13   separable-aware  seed  1  H=0  UD2=118
+ctt done
+
+== ctt 13 separable-aware 2   (finished 14:32:23 UTC)
+  comp13   separable-aware  seed  2  H=0  UD2=130
+ctt done
+
+== ctt 13 separable-aware 3   (finished 14:32:34 UTC)
+  comp13   separable-aware  seed  3  H=0  UD2=136
+ctt done
+
+== ctt 13 fully-aware 1   (finished 14:32:44 UTC)
+  comp13   fully-aware      seed  1  H=0  UD2=78
+ctt done
+
+== ctt 13 fully-aware 2   (finished 14:32:54 UTC)
+  comp13   fully-aware      seed  2  H=0  UD2=85
+ctt done
+
+== ctt 13 fully-aware 3   (finished 14:32:55 UTC)
+  comp13   fully-aware      seed  3  H=0  UD2=84
+ctt done
+
+== ctt 14 bucket-local 1   (finished 14:32:48 UTC)
+  comp14   bucket-local     seed  1  H=0  UD2=117
+ctt done
+
+== ctt 14 bucket-local 2   (finished 14:32:55 UTC)
+  comp14   bucket-local     seed  2  H=0  UD2=145
+ctt done
+
+== ctt 14 bucket-local 3   (finished 14:32:59 UTC)
+  comp14   bucket-local     seed  3  H=0  UD2=144
+ctt done
+
+== ctt 14 separable-aware 1   (finished 14:33:12 UTC)
+  comp14   separable-aware  seed  1  H=0  UD2=105
+ctt done
+
+== ctt 14 separable-aware 2   (finished 14:33:15 UTC)
+  comp14   separable-aware  seed  2  H=0  UD2=110
+ctt done
+
+== ctt 14 separable-aware 3   (finished 14:33:12 UTC)
+  comp14   separable-aware  seed  3  H=0  UD2=120
+ctt done
+
+== ctt 14 fully-aware 1   (finished 14:33:23 UTC)
+  comp14   fully-aware      seed  1  H=0  UD2=67
+ctt done
+
+== ctt 14 fully-aware 2   (finished 14:33:35 UTC)
+  comp14   fully-aware      seed  2  H=0  UD2=64
+ctt done
+
+== ctt 14 fully-aware 3   (finished 14:33:36 UTC)
+  comp14   fully-aware      seed  3  H=0  UD2=73
+ctt done
+
+== ctt 15 bucket-local 1   (finished 14:33:28 UTC)
+  comp15   bucket-local     seed  1  H=0  UD2=167
+ctt done
+
+== ctt 15 bucket-local 2   (finished 14:33:41 UTC)
+  comp15   bucket-local     seed  2  H=0  UD2=165
+ctt done
+
+== ctt 15 bucket-local 3   (finished 14:33:43 UTC)
+  comp15   bucket-local     seed  3  H=0  UD2=190
+ctt done
+
+== ctt 15 separable-aware 1   (finished 14:34:24 UTC)
+  comp15   separable-aware  seed  1  H=0  UD2=143
+ctt done
+
+== ctt 15 separable-aware 2   (finished 14:34:18 UTC)
+  comp15   separable-aware  seed  2  H=0  UD2=151
+ctt done
+
+== ctt 15 separable-aware 3   (finished 14:34:21 UTC)
+  comp15   separable-aware  seed  3  H=0  UD2=152
+ctt done
+
+== ctt 15 fully-aware 1   (finished 14:34:28 UTC)
+  comp15   fully-aware      seed  1  H=0  UD2=100
+ctt done
+
+== ctt 15 fully-aware 2   (finished 14:34:52 UTC)
+  comp15   fully-aware      seed  2  H=0  UD2=95
+ctt done
+
+== ctt 15 fully-aware 3   (finished 14:34:53 UTC)
+  comp15   fully-aware      seed  3  H=0  UD2=82
+ctt done
+
+== ctt 16 bucket-local 1   (finished 14:34:35 UTC)
+  comp16   bucket-local     seed  1  H=0  UD2=152
+ctt done
+
+== ctt 16 bucket-local 2   (finished 14:34:40 UTC)
+  comp16   bucket-local     seed  2  H=0  UD2=164
+ctt done
+
+== ctt 16 bucket-local 3   (finished 14:34:46 UTC)
+  comp16   bucket-local     seed  3  H=0  UD2=162
+ctt done
+
+== ctt 16 separable-aware 1   (finished 14:34:58 UTC)
+  comp16   separable-aware  seed  1  H=0  UD2=122
+ctt done
+
+== ctt 16 separable-aware 2   (finished 14:35:04 UTC)
+  comp16   separable-aware  seed  2  H=0  UD2=106
+ctt done
+
+== ctt 16 separable-aware 3   (finished 14:35:11 UTC)
+  comp16   separable-aware  seed  3  H=0  UD2=115
+ctt done
+
+== ctt 16 fully-aware 1   (finished 14:35:18 UTC)
+  comp16   fully-aware      seed  1  H=0  UD2=59
+ctt done
+
+== ctt 16 fully-aware 2   (finished 14:35:21 UTC)
+  comp16   fully-aware      seed  2  H=0  UD2=75
+ctt done
+
+== ctt 16 fully-aware 3   (finished 14:35:27 UTC)
+  comp16   fully-aware      seed  3  H=0  UD2=56
+ctt done
+
+== ctt 17 bucket-local 1   (finished 14:35:23 UTC)
+  comp17   bucket-local     seed  1  H=0  UD2=190
+ctt done
+
+== ctt 17 bucket-local 2   (finished 14:35:29 UTC)
+  comp17   bucket-local     seed  2  H=0  UD2=169
+ctt done
+
+== ctt 17 bucket-local 3   (finished 14:35:33 UTC)
+  comp17   bucket-local     seed  3  H=0  UD2=182
+ctt done
+
+== ctt 17 separable-aware 1   (finished 14:35:40 UTC)
+  comp17   separable-aware  seed  1  H=0  UD2=140
+ctt done
+
+== ctt 17 separable-aware 2   (finished 14:35:45 UTC)
+  comp17   separable-aware  seed  2  H=0  UD2=143
+ctt done
+
+== ctt 17 separable-aware 3   (finished 14:35:47 UTC)
+  comp17   separable-aware  seed  3  H=0  UD2=146
+ctt done
+
+== ctt 17 fully-aware 1   (finished 14:35:55 UTC)
+  comp17   fully-aware      seed  1  H=0  UD2=99
+ctt done
+
+== ctt 17 fully-aware 2   (finished 14:36:03 UTC)
+  comp17   fully-aware      seed  2  H=0  UD2=96
+ctt done
+
+== ctt 17 fully-aware 3   (finished 14:36:09 UTC)
+  comp17   fully-aware      seed  3  H=0  UD2=107
+ctt done
+
+== ctt 18 bucket-local 1   (finished 14:35:57 UTC)
+  comp18   bucket-local     seed  1  H=0  UD2=107
+ctt done
+
+== ctt 18 bucket-local 2   (finished 14:36:05 UTC)
+  comp18   bucket-local     seed  2  H=0  UD2=119
+ctt done
+
+== ctt 18 bucket-local 3   (finished 14:36:06 UTC)
+  comp18   bucket-local     seed  3  H=0  UD2=117
+ctt done
+
+== ctt 18 separable-aware 1   (finished 14:36:23 UTC)
+  comp18   separable-aware  seed  1  H=0  UD2=113
+ctt done
+
+== ctt 18 separable-aware 2   (finished 14:36:25 UTC)
+  comp18   separable-aware  seed  2  H=0  UD2=109
+ctt done
+
+== ctt 18 separable-aware 3   (finished 14:36:25 UTC)
+  comp18   separable-aware  seed  3  H=0  UD2=103
+ctt done
+
+== ctt 18 fully-aware 1   (finished 14:36:31 UTC)
+  comp18   fully-aware      seed  1  H=0  UD2=80
+ctt done
+
+== ctt 18 fully-aware 2   (finished 14:36:42 UTC)
+  comp18   fully-aware      seed  2  H=0  UD2=89
+ctt done
+
+== ctt 18 fully-aware 3   (finished 14:37:14 UTC)
+  comp18   fully-aware      seed  3  H=0  UD2=91
+ctt done
+
+== ctt 19 bucket-local 1   (finished 14:36:39 UTC)
+  comp19   bucket-local     seed  1  H=0  UD2=168
+ctt done
+
+== ctt 19 bucket-local 2   (finished 14:36:43 UTC)
+  comp19   bucket-local     seed  2  H=0  UD2=134
+ctt done
+
+== ctt 19 bucket-local 3   (finished 14:37:06 UTC)
+  comp19   bucket-local     seed  3  H=0  UD2=167
+ctt done
+
+== ctt 19 separable-aware 1   (finished 14:37:14 UTC)
+  comp19   separable-aware  seed  1  H=0  UD2=140
+ctt done
+
+== ctt 19 separable-aware 2   (finished 14:37:13 UTC)
+  comp19   separable-aware  seed  2  H=0  UD2=134
+ctt done
+
+== ctt 19 separable-aware 3   (finished 14:37:28 UTC)
+  comp19   separable-aware  seed  3  H=0  UD2=124
+ctt done
+
+== ctt 19 fully-aware 1   (finished 14:37:41 UTC)
+  comp19   fully-aware      seed  1  H=0  UD2=79
+ctt done
+
+== ctt 19 fully-aware 2   (finished 14:37:40 UTC)
+  comp19   fully-aware      seed  2  H=0  UD2=70
+ctt done
+
+== ctt 19 fully-aware 3   (finished 14:37:42 UTC)
+  comp19   fully-aware      seed  3  H=0  UD2=82
+ctt done
+
+== ctt 20 bucket-local 1   (finished 14:37:41 UTC)
+  comp20   bucket-local     seed  1  H=0  UD2=153
+ctt done
+
+== ctt 20 bucket-local 2   (finished 14:37:53 UTC)
+  comp20   bucket-local     seed  2  H=0  UD2=206
+ctt done
+
+== ctt 20 bucket-local 3   (finished 14:37:55 UTC)
+  comp20   bucket-local     seed  3  H=0  UD2=171
+ctt done
+
+== ctt 20 separable-aware 1   (finished 14:38:05 UTC)
+  comp20   separable-aware  seed  1  H=0  UD2=119
+ctt done
+
+== ctt 20 separable-aware 2   (finished 14:38:05 UTC)
+  comp20   separable-aware  seed  2  H=0  UD2=143
+ctt done
+
+== ctt 20 separable-aware 3   (finished 14:38:17 UTC)
+  comp20   separable-aware  seed  3  H=0  UD2=124
+ctt done
+
+== ctt 20 fully-aware 1   (finished 14:38:20 UTC)
+  comp20   fully-aware      seed  1  H=0  UD2=80
+ctt done
+
+== ctt 20 fully-aware 2   (finished 14:38:32 UTC)
+  comp20   fully-aware      seed  2  H=0  UD2=70
+ctt done
+
+== ctt 20 fully-aware 3   (finished 14:38:32 UTC)
+  comp20   fully-aware      seed  3  H=0  UD2=75
+ctt done
+
+== ctt 21 bucket-local 1   (finished 14:38:31 UTC)
+  comp21   bucket-local     seed  1  H=0  UD2=244
+ctt done
+
+== ctt 21 bucket-local 2   (finished 14:38:34 UTC)
+  comp21   bucket-local     seed  2  H=0  UD2=228
+ctt done
+
+== ctt 21 bucket-local 3   (finished 14:38:45 UTC)
+  comp21   bucket-local     seed  3  H=0  UD2=208
+ctt done
+
+== ctt 21 separable-aware 1   (finished 14:38:51 UTC)
+  comp21   separable-aware  seed  1  H=0  UD2=181
+ctt done
+
+== ctt 21 separable-aware 2   (finished 14:38:53 UTC)
+  comp21   separable-aware  seed  2  H=0  UD2=184
+ctt done
+
+== ctt 21 separable-aware 3   (finished 14:38:56 UTC)
+  comp21   separable-aware  seed  3  H=0  UD2=173
+ctt done
+
+== ctt 21 fully-aware 1   (finished 14:39:13 UTC)
+  comp21   fully-aware      seed  1  H=0  UD2=140
+ctt done
+
+== ctt 21 fully-aware 2   (finished 14:39:20 UTC)
+  comp21   fully-aware      seed  2  H=0  UD2=149
+ctt done
+
+== ctt 21 fully-aware 3   (finished 14:39:20 UTC)
+  comp21   fully-aware      seed  3  H=0  UD2=128
+ctt done
+
+== gen permute 1   (finished 14:39:30 UTC)
+permute done
+
+== gen permute 2   (finished 14:40:21 UTC)
+permute done
+
+== gen permute 3   (finished 14:40:18 UTC)
+permute done
+
+== gen permute 4   (finished 14:40:17 UTC)
+permute done
+
+== gen permute 5   (finished 14:40:21 UTC)
+permute done
+
+== gen permute 6   (finished 14:40:55 UTC)
+permute done
+
+== gen permute 7   (finished 14:40:50 UTC)
+permute done
+
+== gen permute 8   (finished 14:40:54 UTC)
+permute done
+
+== gen permute 9   (finished 14:41:00 UTC)
+permute done
+
+== gen permute 10   (finished 14:41:24 UTC)
+permute done
+
+== gen permute 11   (finished 14:41:29 UTC)
+permute done
+
+== gen permute 12   (finished 14:41:29 UTC)
+permute done
+
+== gen permute 13   (finished 14:41:34 UTC)
+permute done
+
+== gen permute 14   (finished 14:41:57 UTC)
+permute done
+
+== gen permute 15   (finished 14:42:02 UTC)
+permute done
+
+== gen aiming 1   (finished 14:42:10 UTC)
+aiming done
+
+== gen aiming 2   (finished 14:42:15 UTC)
+aiming done
+
+== gen aiming 3   (finished 14:43:16 UTC)
+aiming done
+
+== gen aiming 4   (finished 14:43:16 UTC)
+aiming done
+
+== gen aiming 5   (finished 14:43:20 UTC)
+aiming done
+
+== gen aiming 6   (finished 14:43:16 UTC)
+aiming done
+
+== gen aiming 7   (finished 14:44:00 UTC)
+aiming done
+
+== gen aiming 8   (finished 14:43:57 UTC)
+aiming done
+
+== gen aiming 9   (finished 14:43:58 UTC)
+aiming done
+
+== gen aiming 10   (finished 14:44:02 UTC)
+aiming done
+
+== gen scaling 1   (finished 14:44:43 UTC)
+scaling done
+
+== gen scaling 2   (finished 14:44:44 UTC)
+scaling done
+
+== gen scaling 3   (finished 14:44:46 UTC)
+scaling done
+
+== gen scaling 4   (finished 14:44:48 UTC)
+scaling done
+
+== gen scaling 5   (finished 14:46:12 UTC)
+scaling done
+
+== gen scaling 6   (finished 14:46:12 UTC)
+scaling done
+
+== gen scaling 7   (finished 14:46:10 UTC)
+scaling done
+
+== gen scaling 8   (finished 14:46:11 UTC)
+scaling done
+
+== gen scaling 9   (finished 14:46:57 UTC)
+scaling done
+
+== gen scaling 10   (finished 14:46:57 UTC)
+scaling done
+
+== gen anytime 1   (finished 14:46:56 UTC)
+anytime done
+
+== gen anytime 2   (finished 14:47:00 UTC)
+anytime done
+
+== gen anytime 3   (finished 14:47:41 UTC)
+anytime done
+
+== gen anytime 4   (finished 14:47:42 UTC)
+anytime done
+
+== gen anytime 5   (finished 14:47:42 UTC)
+anytime done
+
+== gen anytime 6   (finished 14:47:45 UTC)
+anytime done
+
+== gen anytime 7   (finished 14:49:06 UTC)
+anytime done
+
+== gen anytime 8   (finished 14:49:08 UTC)
+anytime done
+
+== gen anytime 9   (finished 14:49:10 UTC)
+anytime done
+
+== gen anytime 10   (finished 14:49:09 UTC)
+anytime done
+
+== gen cost 1   (finished 14:49:10 UTC)
+cost done
+
+== gen cost 2   (finished 14:49:11 UTC)
+cost done
+
+== gen cost 3   (finished 14:49:13 UTC)
+cost done
+
+== gen cost 4   (finished 14:49:13 UTC)
+cost done
+
+== gen cost 5   (finished 14:49:14 UTC)
+cost done
+
+== gen cost 6   (finished 14:49:15 UTC)
+cost done
+
+== gen cost 7   (finished 14:49:16 UTC)
+cost done
+
+== gen cost 8   (finished 14:49:16 UTC)
+cost done
+
+== gen cost 9   (finished 14:49:17 UTC)
+cost done
+
+== gen cost 10   (finished 14:49:18 UTC)
+cost done
+
+== gen evaluators 1   (finished 14:49:54 UTC)
+evaluators done
+
+== gen evaluators 2   (finished 14:49:55 UTC)
+evaluators done
+
+== gen evaluators 3   (finished 14:49:55 UTC)
+evaluators done
+
+== gen evaluators 4   (finished 14:49:57 UTC)
+evaluators done
+
+== gen evaluators 5   (finished 14:50:33 UTC)
+evaluators done
+
+== gen evaluators 6   (finished 14:50:33 UTC)
+evaluators done
+
+== gen evaluators 7   (finished 14:50:33 UTC)
+evaluators done
+
+== gen evaluators 8   (finished 14:50:35 UTC)
+evaluators done
+
+== gen evaluators 9   (finished 14:51:11 UTC)
+evaluators done
+
+== gen evaluators 10   (finished 14:51:11 UTC)
+evaluators done
+
+== diag 01   (finished 14:50:36 UTC)
+  comp01   bucket-local     seed  1  H=0  UD2=113
+SCANDIAG,comp01,bucket-local,1,107056,0
+  comp01   separable-aware  seed  1  H=0  UD2=27
+SCANDIAG,comp01,separable-aware,1,117289,11616
+  comp01   fully-aware      seed  1  H=0  UD2=13
+SCANDIAG,comp01,fully-aware,1,122116,39380
+ctt done
+
+== diag 02   (finished 14:50:39 UTC)
+  comp02   bucket-local     seed  1  H=0  UD2=1394
+SCANDIAG,comp02,bucket-local,1,108857,0
+  comp02   separable-aware  seed  1  H=0  UD2=252
+SCANDIAG,comp02,separable-aware,1,123226,15023
+  comp02   fully-aware      seed  1  H=0  UD2=150
+SCANDIAG,comp02,fully-aware,1,126917,56169
+ctt done
+
+== diag 03   (finished 14:50:41 UTC)
+  comp03   bucket-local     seed  1  H=0  UD2=797
+SCANDIAG,comp03,bucket-local,1,99198,0
+  comp03   separable-aware  seed  1  H=0  UD2=229
+SCANDIAG,comp03,separable-aware,1,120007,14261
+  comp03   fully-aware      seed  1  H=0  UD2=143
+SCANDIAG,comp03,fully-aware,1,122774,67850
+ctt done
+
+== diag 04   (finished 14:50:42 UTC)
+  comp04   bucket-local     seed  1  H=0  UD2=1033
+SCANDIAG,comp04,bucket-local,1,83066,0
+  comp04   separable-aware  seed  1  H=0  UD2=201
+SCANDIAG,comp04,separable-aware,1,107615,11544
+  comp04   fully-aware      seed  1  H=0  UD2=68
+SCANDIAG,comp04,fully-aware,1,111890,58880
+ctt done
+
+== diag 05   (finished 14:50:53 UTC)
+  comp05   bucket-local     seed  1  H=0  UD2=1859
+SCANDIAG,comp05,bucket-local,1,114392,0
+  comp05   separable-aware  seed  1  H=0  UD2=443
+SCANDIAG,comp05,separable-aware,1,127382,11375
+  comp05   fully-aware      seed  1  H=0  UD2=501
+SCANDIAG,comp05,fully-aware,1,127244,31869
+ctt done
+
+== diag 06   (finished 14:50:46 UTC)
+  comp06   bucket-local     seed  1  H=0  UD2=1726
+SCANDIAG,comp06,bucket-local,1,105827,0
+  comp06   separable-aware  seed  1  H=0  UD2=285
+SCANDIAG,comp06,separable-aware,1,117072,12945
+  comp06   fully-aware      seed  1  H=0  UD2=142
+SCANDIAG,comp06,fully-aware,1,121094,52030
+ctt done
+
+== diag 07   (finished 14:50:50 UTC)
+  comp07   bucket-local     seed  1  H=0  UD2=1736
+SCANDIAG,comp07,bucket-local,1,107075,0
+  comp07   separable-aware  seed  1  H=0  UD2=352
+SCANDIAG,comp07,separable-aware,1,120556,13897
+  comp07   fully-aware      seed  1  H=0  UD2=158
+SCANDIAG,comp07,fully-aware,1,130604,48804
+ctt done
+
+== diag 08   (finished 14:50:53 UTC)
+  comp08   bucket-local     seed  1  H=0  UD2=852
+SCANDIAG,comp08,bucket-local,1,92188,0
+  comp08   separable-aware  seed  1  H=0  UD2=225
+SCANDIAG,comp08,separable-aware,1,113531,14031
+  comp08   fully-aware      seed  1  H=0  UD2=71
+SCANDIAG,comp08,fully-aware,1,117485,53115
+ctt done
+
+== diag 09   (finished 14:50:56 UTC)
+  comp09   bucket-local     seed  1  H=0  UD2=679
+SCANDIAG,comp09,bucket-local,1,95229,0
+  comp09   separable-aware  seed  1  H=0  UD2=266
+SCANDIAG,comp09,separable-aware,1,110933,13182
+  comp09   fully-aware      seed  1  H=0  UD2=149
+SCANDIAG,comp09,fully-aware,1,115908,61279
+ctt done
+
+== diag 10   (finished 14:50:57 UTC)
+  comp10   bucket-local     seed  1  H=0  UD2=1178
+SCANDIAG,comp10,bucket-local,1,106409,0
+  comp10   separable-aware  seed  1  H=0  UD2=269
+SCANDIAG,comp10,separable-aware,1,119680,14346
+  comp10   fully-aware      seed  1  H=0  UD2=112
+SCANDIAG,comp10,fully-aware,1,126625,55411
+ctt done
+
+== diag 11   (finished 14:51:00 UTC)
+  comp11   bucket-local     seed  1  H=0  UD2=167
+SCANDIAG,comp11,bucket-local,1,92006,0
+  comp11   separable-aware  seed  1  H=0  UD2=11
+SCANDIAG,comp11,separable-aware,1,121258,14924
+  comp11   fully-aware      seed  1  H=0  UD2=0
+SCANDIAG,comp11,fully-aware,1,59999,18469
+ctt done
+
+== diag 12   (finished 14:51:04 UTC)
+  comp12   bucket-local     seed  1  H=0  UD2=877
+SCANDIAG,comp12,bucket-local,1,113654,0
+  comp12   separable-aware  seed  1  H=0  UD2=526
+SCANDIAG,comp12,separable-aware,1,124638,13034
+  comp12   fully-aware      seed  1  H=0  UD2=483
+SCANDIAG,comp12,fully-aware,1,125679,45375
+ctt done
+
+== diag 13   (finished 14:51:03 UTC)
+  comp13   bucket-local     seed  1  H=0  UD2=1291
+SCANDIAG,comp13,bucket-local,1,91634,0
+  comp13   separable-aware  seed  1  H=0  UD2=231
+SCANDIAG,comp13,separable-aware,1,110614,14752
+  comp13   fully-aware      seed  1  H=0  UD2=112
+SCANDIAG,comp13,fully-aware,1,117983,53957
+ctt done
+
+== diag 14   (finished 14:51:06 UTC)
+  comp14   bucket-local     seed  1  H=0  UD2=814
+SCANDIAG,comp14,bucket-local,1,98644,0
+  comp14   separable-aware  seed  1  H=0  UD2=227
+SCANDIAG,comp14,separable-aware,1,115062,13829
+  comp14   fully-aware      seed  1  H=0  UD2=95
+SCANDIAG,comp14,fully-aware,1,121248,68911
+ctt done
+
+== diag 15   (finished 14:51:08 UTC)
+  comp15   bucket-local     seed  1  H=0  UD2=797
+SCANDIAG,comp15,bucket-local,1,99198,0
+  comp15   separable-aware  seed  1  H=0  UD2=229
+SCANDIAG,comp15,separable-aware,1,120007,14261
+  comp15   fully-aware      seed  1  H=0  UD2=143
+SCANDIAG,comp15,fully-aware,1,122774,67850
+ctt done
+
+== diag 16   (finished 14:51:10 UTC)
+  comp16   bucket-local     seed  1  H=0  UD2=1247
+SCANDIAG,comp16,bucket-local,1,96395,0
+  comp16   separable-aware  seed  1  H=0  UD2=276
+SCANDIAG,comp16,separable-aware,1,113695,14028
+  comp16   fully-aware      seed  1  H=0  UD2=109
+SCANDIAG,comp16,fully-aware,1,123583,64729
+ctt done
+
+== diag 17   (finished 14:51:12 UTC)
+  comp17   bucket-local     seed  1  H=0  UD2=1077
+SCANDIAG,comp17,bucket-local,1,103480,0
+  comp17   separable-aware  seed  1  H=0  UD2=299
+SCANDIAG,comp17,separable-aware,1,113091,12738
+  comp17   fully-aware      seed  1  H=0  UD2=151
+SCANDIAG,comp17,fully-aware,1,120940,56385
+ctt done
+
+== diag 18   (finished 14:51:13 UTC)
+  comp18   bucket-local     seed  1  H=0  UD2=309
+SCANDIAG,comp18,bucket-local,1,82443,0
+  comp18   separable-aware  seed  1  H=0  UD2=152
+SCANDIAG,comp18,separable-aware,1,100762,13615
+  comp18   fully-aware      seed  1  H=0  UD2=88
+SCANDIAG,comp18,fully-aware,1,105127,50866
+ctt done
+
+== diag 19   (finished 14:51:15 UTC)
+  comp19   bucket-local     seed  1  H=0  UD2=799
+SCANDIAG,comp19,bucket-local,1,107096,0
+  comp19   separable-aware  seed  1  H=0  UD2=245
+SCANDIAG,comp19,separable-aware,1,113532,14195
+  comp19   fully-aware      seed  1  H=0  UD2=154
+SCANDIAG,comp19,fully-aware,1,125668,61712
+ctt done
+
+== diag 20   (finished 14:51:15 UTC)
+  comp20   bucket-local     seed  1  H=0  UD2=2547
+SCANDIAG,comp20,bucket-local,1,103417,0
+  comp20   separable-aware  seed  1  H=0  UD2=331
+SCANDIAG,comp20,separable-aware,1,115752,13198
+  comp20   fully-aware      seed  1  H=0  UD2=166
+SCANDIAG,comp20,fully-aware,1,123455,43991
+ctt done
+
+== diag 21   (finished 14:51:16 UTC)
+  comp21   bucket-local     seed  1  H=0  UD2=1123
+SCANDIAG,comp21,bucket-local,1,106783,0
+  comp21   separable-aware  seed  1  H=0  UD2=319
+SCANDIAG,comp21,separable-aware,1,119560,13471
+  comp21   fully-aware      seed  1  H=0  UD2=183
+SCANDIAG,comp21,fully-aware,1,127861,60491
+ctt done

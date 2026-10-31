@@ -1,0 +1,44 @@
+# Best-known bounds for the ITC-2007 curriculum-based instances, formulation UD2.
+#
+# These are NOT results of this work and are not verified here.  They are the lower and upper bounds
+# collected by S. Ceschia, L. Di Gaspero and A. Schaerf, "Educational timetabling: problems,
+# benchmarks, and state-of-the-art results", European Journal of Operational Research 308(1):1-18,
+# 2023, doi:10.1016/j.ejor.2022.07.011, Table 13, and they are reproduced only to give the numbers
+# in this paper a scale.
+#
+# Checked against the earlier collection of Banbara et al. (Annals of OR 275(1):3-37, 2019), which
+# this file previously used: the twenty-one upper bounds are identical, so nothing has moved between
+# the two collections.  They are not fixed for ever -- an older survey (Bettinelli et al., TOP
+# 23(2):313-349, 2015) has comp12 at 298 and comp15 at 64 -- so a reader comparing against a later
+# collection should expect small differences on the four instances that are still open.
+#
+# Ceschia, Da Ros, Di Gaspero and Schaerf, "Revisiting local search for Curriculum-Based Course
+# Timetabling", Computers & Operations Research 195:107621, 2026, doi:10.1016/j.cor.2026.107621,
+# report a new upper bound of 289 on comp12.  It is not used here: the column below stays the 2023
+# collection, so that every reference value comes from one source.
+#
+# best_known is the upper bound.  optimal is 1 where the collection reports a lower bound equal to
+# it, i.e. where the value is proved optimal and no method can do better; it is 0 on the four
+# instances that remain open, where best_known is only the best value anyone has reported.
+instance,best_known,lower_bound,optimal
+comp01,5,5,1
+comp02,24,24,1
+comp03,64,58,0
+comp04,35,35,1
+comp05,284,247,0
+comp06,27,27,1
+comp07,6,6,1
+comp08,37,37,1
+comp09,96,96,1
+comp10,4,4,1
+comp11,0,0,1
+comp12,294,248,0
+comp13,59,59,1
+comp14,51,51,1
+comp15,62,58,0
+comp16,18,18,1
+comp17,56,56,1
+comp18,61,61,1
+comp19,57,57,1
+comp20,4,4,1
+comp21,74,74,1
